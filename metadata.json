@@ -1,0 +1,6 @@
+{
+  "name": "InnoVedas EdTech",
+  "description": "Bilingual marketing website for InnoVedas EdTech Pvt. Ltd. — Indian AI, Education, and Skilling company.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
